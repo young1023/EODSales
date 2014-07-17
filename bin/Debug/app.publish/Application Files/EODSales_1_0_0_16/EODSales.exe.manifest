@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="EODSales.exe" version="1.0.0.16" publicKeyToken="beeaa6cf7fc2cacc" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="EODSales" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="EODSales.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="6.8.3.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EODSales.exe" size="82432">
+      <assemblyIdentity name="EODSales" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NaW/D9ePr4RnMQrsYpTErDIq9n3Zfjoi40BYnPXliJk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="EODSales.exe.config" size="183">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fqCFSMI71/18dcpyCsWg6MqUy1HQbNRev19BLku919c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="4150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y7xUA+842tPC6a1kXKbsfnbssOOg+MhZASz7Kw6U8Lo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=IDEACENTRE\Gary" issuerKeyHash="f983a2c5dc6747c0720da5c796380033a59ad2c6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2VVBAdqheSkn089EfGCcPEOTlyrNQEKCtOUfn7NhNYs=</DigestValue></Reference></SignedInfo><SignatureValue>TXxhBwmZ0lQEhVmk/dlP7d0EXV8Aq00vvBtGyGDojuQH4msQv94Nui2m4GPtCITyHg0KHKPK4n3s3zdzkXGZ3TCnpXMZu04ZA5NUIfY59FsX0FXIIihse9JBJZyrbmfUh9pVsrUtanxzNHNez5a9JBTHJz34OAtQbw9oPgnvX2k=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>kXk8JGazCrQAhenDWjBTee0IMboSnRRomRgkk8snrSEJWrWVG+OxG7VAjzxDYubbC9Hj9mGs9iKOJnw9oFQqRUllP3TPozfjD4RHh5cjpXVwhSnaoXhkhjzs0Xdxatp+eHvEFWc9RwZltPlTht6QO3yj0HiLiFQSof/P8+m7pMU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8b3561b39f1fe5b4824240cd2a9793433c9c607c44cfd3272979a1da014155d9" Description="" Url=""><as:assemblyIdentity name="EODSales.exe" version="1.0.0.16" publicKeyToken="beeaa6cf7fc2cacc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=IDEACENTRE\Gary</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>udF/+hzQmkaqRYyR+kj+urKu46waUR+tJKuvaIHpTRE=</DigestValue></Reference></SignedInfo><SignatureValue>QtRy1mL1Mfb1XxjRHo7oyKtar8PDYcURqPGLFS78zyI9pHsWwqLeJCFlo0p0qspGpCW2I1tJcyI3TfNftQ8otubtY+Udsy91NujJTyKixSHTj/HW9TZb+ozD84WwIOwHWVaB1iBDa6sT6J7JQop2yxrdo1cZoLKvYc1xGs+0QjY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kXk8JGazCrQAhenDWjBTee0IMboSnRRomRgkk8snrSEJWrWVG+OxG7VAjzxDYubbC9Hj9mGs9iKOJnw9oFQqRUllP3TPozfjD4RHh5cjpXVwhSnaoXhkhjzs0Xdxatp+eHvEFWc9RwZltPlTht6QO3yj0HiLiFQSof/P8+m7pMU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQQ8uRfJDWLqdLjRtRLaC+XjANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASQBEAEUAQQBDAEUATgBUAFIARQBcAEcAYQByAHkwHhcNMTMxMjA5MDAxMDUxWhcNMTQxMjA5MDYxMDUxWjApMScwJQYDVQQDHh4ASQBEAEUAQQBDAEUATgBUAFIARQBcAEcAYQByAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJF5PCRmswq0AIXpw1owU3ntCDG6Ep0UaJkYJJPLJ60hCVq1lRvjsRu1QI88Q2Lm2wvR4/ZhrPYijiZ8PaBUKkVJZT90z6M34w+ER4eXI6V1cIUp2qF4ZIY87NF3cWrafnh7xBVnPUcGZbT5U4bekDt8o9B4i4hUEqH/z/Ppu6TFAgMBAAEwDQYJKoZIhvcNAQELBQADgYEACDxVAcN9ZJK+cGy4R/5FY6pXUft9kxrlzYxdrxAVdhOUWtROK6EUzRtJB7I13Uypt6ehEbSrH23YPNhAkvREJfm/KGLZGkYE10FM90Zd98ez95nLkVjxyFJgzN51/T536+1uko7tTNbjVVdIEeDuQcGZq+PEbDQcfFuUlyEFOK8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

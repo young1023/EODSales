@@ -1,0 +1,39 @@
+c:\users\gary\documents\visual studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe.config
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Main.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.vbproj.GenerateResource.Cache
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.pdb
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.xml
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.exe
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.xml
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.pdb
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe.manifest
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.application
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.exe.manifest
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.application
+C:\Users\Gary\documents\visual studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.vbproj.ResolveComReference.cache
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.exe
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.xml
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.pdb
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe.config
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe.manifest
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.application
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.exe
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.pdb
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\bin\Debug\EODSales.xml
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Main.resources
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Resources.resources
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.vbproj.GenerateResource.Cache
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.exe.manifest
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.application
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.vbproj.ResolveComReference.cache
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Sales.resources
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.DailySales.resources
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Transaction.resources
+C:\Users\Shell User\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.ExportedFile.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.DailySales.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.ExportedFile.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Sales.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.Transaction.resources
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\EODSales\EODSales\obj\Debug\EODSales.ExcelShop.resources
